@@ -13,13 +13,13 @@
 🚀 Additional skills: React, MongoDB, NodeJs, GoogleCloud, Git, Unity Shader Graphs, Home Assistant, electronics & IoT, 3D modeling@Blender, Vector Graphics@InkScape, AI whispering
 
 JAM GAMES and other projects:
-https://lorugames.com/try
-http://bit.ly/huomassa 
-https://tapiiri.itch.io/clutchophage
-https://globalgamejam.org/2020/games/frankenfighter-9
-https://globalgamejam.org/2022/games/pious-heretic-3
-https://manundi.github.io/FeedtheLions/ (3D By Olli K and Henrik H)
-https://manundi.github.io/BFGWeb/ (Graphs by Onni)
-https://manundi.github.io/h/ (Space simulation, drag small planets with mouse)
+- https://lorugames.com/try
+- http://bit.ly/huomassa 
+- https://tapiiri.itch.io/clutchophage
+- https://globalgamejam.org/2020/games/frankenfighter-9
+- https://globalgamejam.org/2022/games/pious-heretic-3
+- https://manundi.github.io/FeedtheLions/ (3D By Olli K and Henrik H)
+- https://manundi.github.io/BFGWeb/ (Graphs by Onni)
+- https://manundi.github.io/h/ (Space simulation, drag small planets with mouse)
 
 
