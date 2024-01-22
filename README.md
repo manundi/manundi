@@ -13,7 +13,6 @@
 🚀 Additional skills: React, MongoDB, NodeJs, GoogleCloud, Git, Unity Shader Graphs, Home Assistant, electronics & IoT, 3D modeling@Blender, Vector Graphics@InkScape, AI whispering
 
 Typescript game prototype can be played here:
-- http://vilkastus.duckdns.org/
 - repo: https://github.com/manundi/TypeScriptSplineDemo
 
 JAM GAMES and other projects:
